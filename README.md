@@ -2,6 +2,18 @@
 
 Customized Android, AndroidTV, iOS and tvOS builds for Basspistol brand of OwnTube-tv/web-client.
 
+Web version available at: https://owntube-tv.github.io/cust-app-basspistol/
+
+App beta versions:
+
+<a href="https://testflight.apple.com/join/pqVV5Cu2">
+  <img height=75 alt="Get the beta on TestFlight" src="https://askyourself.app/assets/testflight.png"/>
+</a>
+<br/>
+<a href="https://play.google.com/apps/testing/com.owntubetv.basspistol">
+  <img height=75 alt="Get the beta on Google Play" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1280px-Google_Play_Store_badge_EN.svg.png"/>
+</a>
+
 ## How to Use
 
 Follow the steps below to customize and deploy your branded OwnTube instance.
