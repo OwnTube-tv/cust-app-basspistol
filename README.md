@@ -1,16 +1,6 @@
-# OwnTube Branded App Template
+# OwnTube Basspistol Branded App
 
-A template repository for creating a customized branded OwnTube instance. This repository provides the structure and configuration required to set up a fully branded app for OwnTube.
-
-## Overview
-
-This template allows you to easily:
-
-- Customize the app name, icon, and splash screen.
-- Restrict the app to a specific OwnTube backend.
-- Generate configurations for both web and mobile platforms.
-
----
+Customized Android, AndroidTV, iOS and tvOS builds for Basspistol brand of OwnTube-tv/web-client.
 
 ## How to Use
 
