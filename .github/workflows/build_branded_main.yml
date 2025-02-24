@@ -54,6 +54,7 @@ jobs:
 
   build_info:
     runs-on: ubuntu-latest
+    environment: github-pages
     outputs:
       BUILD_INFO: ${{ steps.write.outputs.BUILD_INFO }}
     steps:
