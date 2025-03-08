@@ -2,7 +2,7 @@
 
 Customized Android, AndroidTV, iOS and tvOS builds for Basspistol brand of OwnTube-tv/web-client.
 
-Web version available at: https://owntube-tv.github.io/cust-app-basspistol/
+Web version available at: https://cust-app-basspistol.owntube.tv/
 
 App beta versions:
 
